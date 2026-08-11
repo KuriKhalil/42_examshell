@@ -1,7 +1,8 @@
 # 42 Exam Practice Shell
 
 ⚡ An interactive practice environment for 42 School exams (Ranks 02-06) ⚡
-Trouvé sur [Reddit](https://www.reddit.com/r/42_school/comments/1nmv654/42_examshell_updated_with_new_subject_support/?tl=fr)
+
+Correction trouvé sur [Reddit]([https://www.reddit.com/r/42_school/comments/1nmv654/42_examshell_updated_with_new_subject_support/?tl=fr](https://www.reddit.com/r/42_school/comments/1nmv654/comment/ocdadle/?tl=fr&utm_source=chatgpt.com))
 
 ## 📋 Overview
 
