@@ -2,7 +2,7 @@
 
 ⚡ An interactive practice environment for 42 School exams (Ranks 02-06) ⚡
 
-Correction trouvé sur [Reddit](https://www.reddit.com/r/42_school/comments/1nmv654/comment/ocdadle/?tl=fr&utm_source=chatgpt.com))
+[Correction trouvé sur Reddit](https://www.reddit.com/r/42_school/comments/1nmv654/comment/ocdadle/?tl=fr&utm_source=chatgpt.com)
 
 ## 📋 Overview
 
